@@ -65,6 +65,11 @@ label {
   font-size: 0.875rem;
 }
 
+.taskTitleComplete {
+  text-decoration: line-through;
+  color: var(--gray-300);
+}
+
 .listItem button {
   display: flex;
 
